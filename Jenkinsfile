@@ -16,7 +16,7 @@ pipeline
         {
             steps
             {   
-                sh './a.ou'
+                sh './a.ouT'
                 echo 'Output from cpp file'
             }
         }
